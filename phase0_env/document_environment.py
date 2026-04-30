@@ -19,6 +19,7 @@ import platform
 import os
 import importlib
 
+
 def document_environment() -> None:
     sep = "=" * 70
 
