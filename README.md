@@ -129,7 +129,13 @@ Each script reports classification metrics and timing summaries to stdout. Where
 If you use this code, please cite the manuscript:
 
 ```
-Citation to be added upon acceptance.
+@article{Allaga2026,
+  author  = {Allaga, Hamza and Farchane, Abderrazak and Biniz, Mohamed},
+  title   = {Intelligent threat detection for {MQTT} protocol in resource constrained edge computing},
+  journal = {Pervasive and Mobile Computing},
+  year    = {2026},
+  publisher = {Elsevier}
+}
 ```
 
 A BibTeX entry will be added when the article is published.
